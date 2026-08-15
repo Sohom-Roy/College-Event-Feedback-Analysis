@@ -1,7 +1,3 @@
-# 📊 College Event Feedback Analysis 
-
-This project was completed as part of my **Data Science & Analytics Internship** at [Future Interns](https://futureinterns.com/).
-
 The goal was to analyze **student feedback ratings** for various teaching aspects and turn them into actionable insights using Python and visualization tools.
 
 ---
