@@ -1,7 +1,3 @@
-The goal was to analyze **student feedback ratings** for various teaching aspects and turn them into actionable insights using Python and visualization tools.
-
----
-
 ## ✅ **Project Objectives**
 - Clean and prepare feedback data collected via Google Forms / CSV
 - Calculate and visualize average satisfaction levels across different aspects
